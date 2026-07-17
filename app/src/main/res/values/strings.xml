@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TAXP</string>
+    <string name="xposed_description">TAXP模块版</string>
+    <string name="hello_world">1. 当你看到此信息时表明你已将APK安装至系统，这可能会导致系统出现问题\n2. 为提高兼容性目标包名必须为 com.fongmi.android.tv\n3. Android 6.0+\n4. NPatch 0.7.4(529) / LSPatch 0.6</string>
+    <string name="taxp_title">TVBox Auxiliary Xposed</string>
+    <string name="taxp_version">v0.9 Pre-Alpha - GPLv3 License</string>
+</resources>
